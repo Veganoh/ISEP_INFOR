@@ -1,0 +1,13 @@
+- Como Responsável Técnico quero efetuar o depósito de objetos
+- Como Responsável Técnico quero procurar instituições que estejam dispsostas a aceitar guarda de peças
+- Como Responsável Técnico quero me deslocar as instituições previamente encontradas
+- Como Responsável Técnico quero efetuar um relatório para cada instituição visitada
+- Como Responsável Técnico quero escolher a melhor instituição para alojar o objeto
+- Como Responsável Técnico quero formalizar o pedido de depósito
+- Como Entidade Depositária quero efetuar os preparativos para o transporte de peças
+- Como Responsável Técnico devo assinar um contrato de depósito
+- Como Entidade Depositária devo assinar um contrato de depósito
+- Como funcionário do Museu quero efetuar o transporte das peças
+- Como funcionário do Museu quero efetuar o depósito das peças
+- Como Responsável Técnico quero entrar em contacto regularmente com o depositário
+
