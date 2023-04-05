@@ -1,13 +1,32 @@
+ISEP como depositante
+
 - Como Responsável Técnico quero efetuar o depósito de objetos
-- Como Responsável Técnico quero procurar instituições que estejam dispsostas a aceitar guarda de peças
+- Como Responsável Técnico quero procurar instituições que estejam dispsostas a aceitar guarda da(s) peça(s)
 - Como Responsável Técnico quero me deslocar as instituições previamente encontradas
 - Como Responsável Técnico quero efetuar um relatório para cada instituição visitada
 - Como Responsável Técnico quero escolher a melhor instituição para alojar o objeto
 - Como Responsável Técnico quero formalizar o pedido de depósito
-- Como Entidade Depositária quero efetuar os preparativos para o transporte de peças
+- Como Entidade Depositária quero efetuar os preparativos para o transporte da(s) peça(s)
 - Como Responsável Técnico devo assinar um contrato de depósito
 - Como Entidade Depositária devo assinar um contrato de depósito
-- Como funcionário do Museu quero efetuar o transporte das peças
-- Como funcionário do Museu quero efetuar o depósito das peças
+- Como funcionário do Museu quero efetuar o transporte da(s) peça(s)
+- Como funcionário do Museu quero efetuar o depósito da(s) peça(s)
 - Como Responsável Técnico quero entrar em contacto regularmente com o depositário
+
+ISEP como depositário
+
+- Como Entidade Depositante quero efetuar o depósito de objetos
+- Como Responsável Técnico quero verificar se o Museu possuí condições para receber a(s) peça(s)
+- Como Responsável Técnico quero aceitar ou negar o pedido
+- Como Responsável Técnico quero definir detalhes de transporte da(s) peça(s)
+- Como Responsável Técnico quero assinar o Contrato de Depósito
+- Como Entidade Depositante quero assinar o Contrato de Depósito
+- Como Entidade Depositante quero enviar a(s) peça(s) para o Museu
+- Como Responsável Técnico quero desembalar a(s) peça(s)
+- Como Responsável Técnico quero examinar a(s) peça(s) e elaborar um relatório
+- Como Responsável Técnico quero comparar esse relatório com o relatório do Depositante
+- Como Responsável Técnico do Museu quero implementar os procedimentos necessários para eliminar as diferenças
+- Como Entidade Depositante quero implementar os procedimentos necessários para eliminar as diferenças
+- Como Responsável Técnico quero entrar em contacto regularmente com o Depositante.
+- Como Responsável Técnico quero efetuar o depósito das peças
 

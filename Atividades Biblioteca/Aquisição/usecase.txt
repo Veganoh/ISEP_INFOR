@@ -1,0 +1,5 @@
+- Como responsável pela aquisição quero adquirir monografias
+- Como responsável pela aquisição quero elaborar uma listagem de aquisição de monografias
+- Como responsável pela aquisição quero efetuar o registo de todos os pedidos de orçamento
+- Como responsável pela aquisição quero elaborar uma proposta de aquisição de bibliografia
+- Como responsável pela aquisição quero enviar a documentação contabilística

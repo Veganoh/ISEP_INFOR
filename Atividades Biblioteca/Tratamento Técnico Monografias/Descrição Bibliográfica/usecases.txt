@@ -1,0 +1,4 @@
+Como colaborador pela descrição bibliográfica quero registar monografia no livro de registos
+Como colaborador pela descrição bibliográfica quero atribuir um número sequencial de inventário à monografia
+Como colaborador quero colocar um carimbo (CDU) em cada monografia
+Como colaborador quero carimbar adequadamente, com o carimbo da Instituição, cada monografia

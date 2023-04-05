@@ -1,0 +1,3 @@
+Como colaborador quero realizar a operação classficação
+Como colaborador quero realizar a operação indexação
+Como colaborador pela análise documental quero registar a CDU na ficha de classificação

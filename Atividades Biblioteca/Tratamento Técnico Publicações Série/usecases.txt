@@ -1,0 +1,5 @@
+Como Colaborador da Bilioteca quero registar publicações em série através do preenchimento, na aplicação informática, dos dados relativos à publicação.
+Como Colaborador da Bilioteca quero carimbar com o carimbo da instituição cada número de publicação na primeira e última página.
+Como Colaborador da Bilioteca quero carimbar com outro carimbo no fundo ao centro da primeira página destinado à cota.
+Como Colaborador da Bilioteca quero etiquetar cada número
+
