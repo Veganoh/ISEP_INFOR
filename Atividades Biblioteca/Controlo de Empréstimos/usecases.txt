@@ -1,0 +1,5 @@
+Como colaborador da biblioteca quero emitir lista de resquisições efetuadas
+Como colaborador da biblioteca quero solicitar a devolução das monografias
+Como colaborador da biblioteca quero ser capaz de suspender o portal
+Como colaborador da biblioteca quero reunir talões das coimas
+Como colaborador da biblioteca quero fazer entrega na tesouraria

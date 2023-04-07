@@ -1,0 +1,7 @@
+Como utilizador da bilioteca quero fazer uma auto devolução.
+Como utilizador da bilioteca quero entregar espécie ao colaborador.
+Como utilizador da bilioteca quero receber o talão.
+Como colaborador da bilioteca quero aceder à base de dados através do código da espécie
+Como utilizador da bilioteca quero emitir o talão de devolução
+Como utilizador da biblioteca quero registar uma potencial multa na base de dados
+Como utilizador da biblioteca quero avaliar o estado de conservação de uma monografia

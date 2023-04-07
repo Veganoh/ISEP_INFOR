@@ -1,0 +1,4 @@
+Como colaborador da biblioteca quero passar escova na lombada dos livros
+Como colaborador da biblioteca quero passsar pano húmido nas prateleiras das estantes
+Como colaborador da biblioteca quero restaurar espécie
+Como colaborador da biblioteca quero comprar espécie no mercado

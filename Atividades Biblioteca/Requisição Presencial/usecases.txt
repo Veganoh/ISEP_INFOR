@@ -1,0 +1,13 @@
+Como estudante do IPP quero apresentar o meu cartão de estudante para efetuar uma requisição presencial
+Como estudante do IPP quero apresentar o meu comprovativo de matrícula para efetuar uma requisição presencial
+Como estudante do IPP quero apresentar o meu documento de identificação com fotografia para efetuar uma requisição presencial
+Como docente e não docente quero apresentar o meu cartão vinculativo à unidade orgânica para efetuar uma requisição presencial
+Como utilizador externo quero apresentar o meu documento de identificação com fotografia para efetuar uma requisição presencial
+Como colaborador da biblioteca pretendo solicitar qualquer documento que seja necessário para efetuar uma requisição presencial
+Como colaborador da biblioteca pretendo registar o utilizador na base de dados
+Como colaborador da biblioteca pretendo introduzir o código da espécie a requisitar na base de dados
+Como colaborador da biblioteca pretendo imprimir um comprovativo de empréstimo duplicado 
+Como requisitante quero solicitar presencialmente a reserva de uma espécie
+Como requisitante quero solicitar pelo site da biblioteca a reserva de uma espécie
+Como requisitante quero receber um comprovativo de empréstimo
+

@@ -1,0 +1,9 @@
+Como proponente quero elaborar uma proposta
+Como proponente quero efetuar transporte das ofertas
+Como proponente quero assinar o termo de entrega
+Como bibliotecária quero analisar a prosposta
+Como bibliotecária quero aprovar/recusar a proposta
+Como bibliotecária quero remeter a proposta para o presidente
+Como presidente quero analisar a proposta
+Como presidente quero pedir parecer não vinculativo a um docente da área
+Como presidente quero notificar o proponente
